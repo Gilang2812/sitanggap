@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sitanggap</string>
+    <string name="title_activity_add_pengaduan_acitivity">AddPengaduanAcitivity</string>
+    <string name="title_activity_add_saran">AddSaranActivity</string>
+</resources>
